@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins:wght@200;400&display=swap');
+/* selector{
+	property: value;
+} */
+
+/* CSS selector */
+/* 1. Tagname */
+/* 2. Classname */
+
+/* Color  */
+/* 1. Colorname  */
+/* 2. RGB & RGBA  0 - 255  alpha: 0 - 1*/
+/* 3. HEX */
+/* #00 00 00 */
+/* R   G  B */
+body{
+	background-color: #212121;
+	color: white;
+}
+
+h1{
+	/* color: yellowgreen; */
+	/* color: rgba(0, 0, 255, 1); */
+	/* color: rgba(200, 137, 41, 0.836); */
+	/* font-family: 'Gloock', serif; */
+	/* font-family: 'Poppins', sans-serif; */
+	/* font-size: 40px; */
+	/* font-weight: 900; */
+	/* font-variant: normal; */
+	/* font-style: italic; */
+	background-color: blue;
+}
+
+p{
+	/* text-transform: capitalize; */
+	/* text-transform: uppercase; */
+	/* text-transform: lowercase; */
+	/* text-decoration: underline; */
+	/* text-decoration: overline; */
+	/* text-decoration: line-through; */
+	/* text-decoration: underline overline line-through; */
+	/* text-align: justify; */
+}
+a{
+	text-decoration: none;
+}
+
+li{
+	color: rgb(253, 134, 134);
+}
+
+.red {
+	color: red;
+}
+
+.yellow{
+	color: yellow;
+}
+
+
+/* D.R.Y. */
+

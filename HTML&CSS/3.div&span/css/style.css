@@ -1,0 +1,45 @@
+/* CSS selector */
+/* 1. ID name */
+/* 2. Classname */
+/* 3. Attribute name */
+/* 4. Tagname */
+
+/* DRY */
+body{
+	background-color: #212121;
+	color: white;
+}
+
+.el{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+}
+
+.light{
+	background-color: rgb(255, 255, 157);
+}
+
+
+[id='dark']{
+	background-color: green;
+}
+
+/* div{
+	background-color: yellow;
+} */
+
+.dark{
+	background-color: rgb(91, 91, 91);
+}
+
+/* #dark{
+	background-color: red;
+} */
+
+/* .dark #dark{
+	background-color: red;
+} */
+
+
+
